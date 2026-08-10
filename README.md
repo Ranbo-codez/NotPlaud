@@ -309,4 +309,4 @@ their respective owners.
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+PolyForm Noncommercial License 1.0.0 — see [LICENSE](LICENSE).
