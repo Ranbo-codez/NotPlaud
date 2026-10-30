@@ -282,8 +282,10 @@ needs a wider array or a higher sample rate.
 
 ## Contributing
 
-Issues and pull requests welcome — particularly Windows and Linux testing,
-hardware builds, and native audio capture to fix the macOS Calls gap.
+Issues welcome — particularly Windows and Linux testing, hardware builds, and
+native audio capture to fix the macOS Calls gap. Only collaborators can open
+pull requests, so to suggest a change, open an issue that describes it; a link
+to a branch on your fork is welcome there.
 
 ## Disclaimer
 
